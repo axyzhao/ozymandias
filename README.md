@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+# Ozymandias
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To view the images, see src/Images.
 
-## Available Scripts
+Full text:
 
-In the project directory, you can run:
+I met a traveller from an antique land,
+/imagine prompt: Hand-Drawn, traveller, from an antique land, who said, meeting, parchment sketch
 
-### `npm start`
+Who said—“Two vast and trunkless legs of stone
+Stand in the desert. . . . Near them, on the sand,
+Hand-Drawn, Two vast and trunkless legs of stone, desert, parchment sketch
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Half sunk a shattered visage lies, whose frown,
+And wrinkled lip, and sneer of cold command,
+Hand-Drawn, Half sunk in sand, shattered visage, parchment sketch, frown, wrinkled lip, sneer of cold command, desert
+Tell that its sculptor well those passions read
+Hand-Drawn, two people, one an ancient sculptor, the other a cruel king sitting for him as a model, parchment sketch
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Which yet survive, stamped on these lifeless things,
+The hand that mocked them, and the heart that fed;
+/imagine Hand-Drawn, two people, one an ancient sculptor, the other a king sitting for him as a model, parchment sketch
+And on the pedestal, these words appear:
+My name is Ozymandias, King of Kings;
+Look on my Works, ye Mighty, and despair!
+/imagine prompt: Hand-Drawn, pedestal, words appear: "My name is Ozymandias, King of Kings; Look on my Works, ye Mighty, and despair!", ancient lost language
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Nothing beside remains. Round the decay
+Of that colossal Wreck, boundless and bare
+The lone and level sands stretch far away.”
+/imagine prompt: Hand-Drawn, Nothing beside remains, Round the decay of that colossal Wreck, boundless and bare, The lone and level sands stretch far away, desert, parchment drawing
