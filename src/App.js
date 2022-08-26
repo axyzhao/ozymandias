@@ -17,7 +17,7 @@ function App() {
       <h3> By Percy Bysshe Shelley </h3>
       <p className="caption"> <a href="https://alzhao.com">Alex Zhao</a> // August 25, 2022 </p>
       <p>
-        A thanks to Midjourney AI for enabling this project.
+        A thanks to Midjourney AI for enabling this project. View all the generated images and prompts on the Github <a href="https://github.com/axyzhao/ozymandias">repo</a>.
       </p>
 
       <ScrollContainer
