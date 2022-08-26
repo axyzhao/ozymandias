@@ -6,7 +6,6 @@ import wreck from './Images/wreck.png';
 import traveler from './Images/traveler.png';
 import trunks from './Images/trunks.png';
 import sculptor from './Images/sculptor.png';
-import sculptor2 from './Images/sculptor2.png';
 import sculptor3 from './Images/sculptor3.png';
 import './App.css';
 
