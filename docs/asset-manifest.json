@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ozymandias/static/css/main.0c9cbad2.css",
-    "main.js": "/ozymandias/static/js/main.57048b64.js",
+    "main.css": "/ozymandias/static/css/main.5c7612f5.css",
+    "main.js": "/ozymandias/static/js/main.7e6e9dc2.js",
     "static/js/787.917506e0.chunk.js": "/ozymandias/static/js/787.917506e0.chunk.js",
     "static/media/pedestal.png": "/ozymandias/static/media/pedestal.1d4bc3942eec3876662a.png",
     "static/media/visage.png": "/ozymandias/static/media/visage.8e240cdc66578927901f.png",
@@ -12,12 +12,12 @@
     "static/media/sculptor.png": "/ozymandias/static/media/sculptor.9fe1d0d74fb2cbe80168.png",
     "static/media/sculptor3.png": "/ozymandias/static/media/sculptor3.9081f54b42c28488e0f8.png",
     "index.html": "/ozymandias/index.html",
-    "main.0c9cbad2.css.map": "/ozymandias/static/css/main.0c9cbad2.css.map",
-    "main.57048b64.js.map": "/ozymandias/static/js/main.57048b64.js.map",
+    "main.5c7612f5.css.map": "/ozymandias/static/css/main.5c7612f5.css.map",
+    "main.7e6e9dc2.js.map": "/ozymandias/static/js/main.7e6e9dc2.js.map",
     "787.917506e0.chunk.js.map": "/ozymandias/static/js/787.917506e0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c9cbad2.css",
-    "static/js/main.57048b64.js"
+    "static/css/main.5c7612f5.css",
+    "static/js/main.7e6e9dc2.js"
   ]
 }
