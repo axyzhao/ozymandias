@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { Scrollama, Step } from 'react-scrollama';
-
+import { styled } from '@mui/material/styles';
+import Tooltip, { TooltipProps, tooltipClasses } from '@mui/material/Tooltip';
 const ScrollContainer = (props) => {
 
   const [currentStepIndex, setCurrentStepIndex] = useState(null);
@@ -14,6 +15,20 @@ const ScrollContainer = (props) => {
     setCurrentStepIndex(data);
   };
 
+  const LightTooltip = styled(({ className, ...props }: TooltipProps) => (
+  <Tooltip {...props} classes={{ popper: className }} />
+  ))(({ theme }) => ({
+    [`& .${tooltipClasses.tooltip}`]: {
+      backgroundColor: theme.palette.common.white,
+      color: 'gray',
+      boxShadow: theme.shadows[1],
+      fontSize: 20,
+      fontFamily: "palatino",
+      maxHeight: "72px",
+      maxWidth: "650px",
+    },
+  }));
+
   return (
     <div style={{ margin: '1vh 0'}}>
       <div className="image-container">
@@ -22,9 +37,11 @@ const ScrollContainer = (props) => {
       <Scrollama offset={0.2} onStepEnter={onStepEnter} >
         {content.map((a, stepIndex) => (
           <Step data={stepIndex} key={stepIndex}>
+          <LightTooltip title={a["prompt"]}>
             <div className="textbox">
-              {a}
+              {a["text"]}
             </div>
+          </LightTooltip>
           </Step>
         ))}
       </Scrollama>

@@ -92,9 +92,14 @@ p {
   font-family:palatino;
   font-size: 18px;
 
+  @media screen and (max-height: 700px) {
+    padding-top: 72px;
+  }
+  
   &.caption {
     margin: -12px auto;
   }
+
 }
 
 .caption {
@@ -140,6 +145,13 @@ p {
 
 .App-link {
   color: #61dafb;
+}
+footer {
+  bottom: 0;
+  top: auto;
+  display: block;
+  text-align: left;
+
 }
 
 @keyframes App-logo-spin {

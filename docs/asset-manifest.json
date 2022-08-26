@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/ozymandias/static/css/main.d783bf75.css",
-    "main.js": "/ozymandias/static/js/main.764efba4.js",
+    "main.css": "/ozymandias/static/css/main.a14245b9.css",
+    "main.js": "/ozymandias/static/js/main.61699f88.js",
     "static/js/787.917506e0.chunk.js": "/ozymandias/static/js/787.917506e0.chunk.js",
     "static/media/pedestal.png": "/ozymandias/static/media/pedestal.1d4bc3942eec3876662a.png",
-    "static/media/visage.png": "/ozymandias/static/media/visage.8e240cdc66578927901f.png",
     "static/media/traveler.png": "/ozymandias/static/media/traveler.ac9c4bf4c1b5c470119c.png",
     "static/media/trunks.png": "/ozymandias/static/media/trunks.2223ba696396cf0b9183.png",
+    "static/media/visage.png": "/ozymandias/static/media/visage.8e240cdc66578927901f.png",
     "static/media/wreck.png": "/ozymandias/static/media/wreck.a30d5f0fef5d4044a1c6.png",
+    "static/media/sculptor2.png": "/ozymandias/static/media/sculptor2.f36ba70088ea6c293ff8.png",
     "static/media/sculptor.png": "/ozymandias/static/media/sculptor.9fe1d0d74fb2cbe80168.png",
     "static/media/sculptor3.png": "/ozymandias/static/media/sculptor3.9081f54b42c28488e0f8.png",
     "index.html": "/ozymandias/index.html",
-    "main.d783bf75.css.map": "/ozymandias/static/css/main.d783bf75.css.map",
-    "main.764efba4.js.map": "/ozymandias/static/js/main.764efba4.js.map",
+    "main.a14245b9.css.map": "/ozymandias/static/css/main.a14245b9.css.map",
+    "main.61699f88.js.map": "/ozymandias/static/js/main.61699f88.js.map",
     "787.917506e0.chunk.js.map": "/ozymandias/static/js/787.917506e0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d783bf75.css",
-    "static/js/main.764efba4.js"
+    "static/css/main.a14245b9.css",
+    "static/js/main.61699f88.js"
   ]
 }
