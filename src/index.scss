@@ -16,11 +16,12 @@ h3 {
   margin: -32px 4px 4px 4px;
   text-align: center;
   font-family: palatino;
+  font-size: 20px;
 }
 h2 {
   text-align: center;
   font-family: palatino;
-  font-size: 42px;
+  font-size: 48px;
 }
 
 img {
@@ -85,10 +86,15 @@ img {
 }
 
 p {
-  width: 500px;
+  width: 75%;
   text-align: left;
-  margin: auto;
+  margin: 24px auto;
   font-family:palatino;
+  font-size: 18px;
+
+  &.caption {
+    margin: -12px auto;
+  }
 }
 
 .caption {
