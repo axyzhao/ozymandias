@@ -16,7 +16,7 @@ function App() {
       <p>
         Ozymandias, in just fourteen lines, touches on the chasm between our expectations for immortal glory
         and the finitude of our accomplishments. Shelley deftly reveals the fragility of human memory; Ozymandias's monument, still rigid
-        in the repose of its greatest splendor, are nothing but ruins to us. We can imagine the traveler who tells the tale to be an old Solomon who,
+        in the repose of its greatest splendor, is nothing but ruins to us. We can imagine the traveler who tells the tale to be an old Solomon who,
         shaken by his journey, returns home to write, "I have seen all the works that are done under the sun; and, behold, all is vanity and vexation of spirit."
       </p>
       <p>
