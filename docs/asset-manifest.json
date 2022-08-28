@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ozymandias/static/css/main.a14245b9.css",
-    "main.js": "/ozymandias/static/js/main.61699f88.js",
+    "main.js": "/ozymandias/static/js/main.c5d60a8a.js",
     "static/js/787.917506e0.chunk.js": "/ozymandias/static/js/787.917506e0.chunk.js",
     "static/media/pedestal.png": "/ozymandias/static/media/pedestal.1d4bc3942eec3876662a.png",
     "static/media/traveler.png": "/ozymandias/static/media/traveler.ac9c4bf4c1b5c470119c.png",
@@ -13,11 +13,11 @@
     "static/media/sculptor3.png": "/ozymandias/static/media/sculptor3.9081f54b42c28488e0f8.png",
     "index.html": "/ozymandias/index.html",
     "main.a14245b9.css.map": "/ozymandias/static/css/main.a14245b9.css.map",
-    "main.61699f88.js.map": "/ozymandias/static/js/main.61699f88.js.map",
+    "main.c5d60a8a.js.map": "/ozymandias/static/js/main.c5d60a8a.js.map",
     "787.917506e0.chunk.js.map": "/ozymandias/static/js/787.917506e0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a14245b9.css",
-    "static/js/main.61699f88.js"
+    "static/js/main.c5d60a8a.js"
   ]
 }
